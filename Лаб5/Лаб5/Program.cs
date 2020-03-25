@@ -189,6 +189,7 @@ namespace Лаб5
             string b = "где";
             Console.WriteLine(IndexOfStr(a, b));
             TestIndexSym(a, b);*/
+            Console.WriteLine("ПАВЕЛ ВЛАДИМИРОВИЧ, Я ГЕЙ. ЭТО МОЙ КАМИНГ АУТ. Я ВАС ЛЮБЛЮ ТАК ЖЕ СИЛЬНО КАК СЛАВА ЛЮБИТ СВОЙ СТУЛ!!!!");
         }
     }
 }
