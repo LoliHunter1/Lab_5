@@ -1,0 +1,24 @@
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.exe
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.deps.json
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.runtimeconfig.json
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.dll
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.pdb
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.AssemblyInfo.cs
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.dll
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.pdb
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.exe
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.deps.json
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.runtimeconfig.json
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.runtimeconfig.dev.json
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.dll
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\bin\Debug\netcoreapp3.1\Лаб5.pdb
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.dll
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.pdb
+C:\Users\Игорь\Desktop\Лаб5\Лаб5\obj\Debug\netcoreapp3.1\Лаб5.genruntimeconfig.cache
